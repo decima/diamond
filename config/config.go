@@ -9,7 +9,7 @@ import (
 const CLIENT_HOST = "client.host"
 const CLIENT_PORT = "client.port"
 
-const ENV_PREFIX = "BOILERPLATE"
+const ENV_PREFIX = "diamond"
 
 const HOST = "server.host"
 const PORT = "server.port"

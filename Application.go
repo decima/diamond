@@ -1,8 +1,8 @@
 package main
 
 import (
-	"BOILERPLATE/api"
-	"BOILERPLATE/config"
+	"diamond/api"
+	"diamond/config"
 	log "github.com/sirupsen/logrus"
 )
 

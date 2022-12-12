@@ -20,7 +20,7 @@
 <div class="navbar bg-base-100">
     <div class="flex-1">
         <Link to="">
-            <a class="btn btn-ghost normal-case text-xl" href="/">BOILERPLATE</a>
+            <a class="btn btn-ghost normal-case text-xl" href="/">diamond</a>
         </Link>
     </div>
     <div class="flex-none">

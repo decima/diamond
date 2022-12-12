@@ -1,11 +1,11 @@
-# Go+Svelte boilerplate
+# Go+Svelte diamond
 
 _...and many more fun things_
 
 So. You want to create a fullstack project. good to go!
 This is a template, feel free to use for almost everything (except Nazi and Terrorist stuff this is not allowed sorry.).
 
-What is included in this boilerplate:
+What is included in this diamond:
 
 - Go (obviously)
 - Svelte (still obvious)
@@ -29,10 +29,10 @@ What is **not** included:
 
 - Create a copy of this project
   - how?
-    - download a tarball of it ([let me do it for you](https://github.com/decima/svelte-go-boilerplate/archive/refs/heads/main.zip))
+    - download a tarball of it ([let me do it for you](https://github.com/decima/svelte-go-diamond/archive/refs/heads/main.zip))
     - or...
-    - use the "templating" feature from github ([let me do it for you](https://github.com/decima/svelte-go-boilerplate/generate))
-- There is a script named `rename.sh`, it is used to replace "BOILERPLATE" in every strings by the name you decide. Be careful to name it well (there's no turning back)
+    - use the "templating" feature from github ([let me do it for you](https://github.com/decima/svelte-go-diamond/generate))
+- There is a script named `rename.sh`, it is used to replace "diamond" in every strings by the name you decide. Be careful to name it well (there's no turning back)
   - run `chmod a+x rename.sh && ./rename.sh`
 
 So you have a fresh project how to work with it ? 

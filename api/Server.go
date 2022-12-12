@@ -1,7 +1,7 @@
 package api
 
 import (
-	"BOILERPLATE/utils"
+	"diamond/utils"
 	"github.com/gin-contrib/static"
 	"github.com/gin-gonic/gin"
 	log "github.com/sirupsen/logrus"

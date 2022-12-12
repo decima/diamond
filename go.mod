@@ -1,4 +1,4 @@
-module BOILERPLATE
+module diamond
 
 go 1.19
 
